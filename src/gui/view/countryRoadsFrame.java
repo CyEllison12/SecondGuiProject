@@ -21,7 +21,7 @@ public class countryRoadsFrame extends JFrame
 	{
 		this.setContentPane(appPanel);
 		this.setSize(800, 800);
-		this.setTitle("My Country Roads");
+		this.setTitle("Country Roads");
 		this.setResizable(true);
 		this.setVisible(true);
 	}
