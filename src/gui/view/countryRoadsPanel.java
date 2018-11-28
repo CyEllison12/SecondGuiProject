@@ -20,8 +20,8 @@ public class countryRoadsPanel extends JPanel
 		
 		this.appController = appController;
 		
-		firstLabel = new JLabel("PLEASE DONT CLICK THE BUTTON!");
-		firstButton = new JButton("DON'T CLICK ME!!!");
+		firstLabel = new JLabel("TAKE ME HOME");
+		firstButton = new JButton("WEST VIRGINIA");
 		appLayout = new SpringLayout();
 		
 		setupPanel();
